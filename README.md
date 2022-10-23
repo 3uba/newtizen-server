@@ -1,3 +1,4 @@
+otwieramy terminal<br />
 mkdir newtizen<br />
 cd newtizen<br />
 
